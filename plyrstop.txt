@@ -1,0 +1,8 @@
+Top 6 Players in the World right now according to me....
+
+10,'LIONEL MESSI',FC barcelona,'Forward'
+10,'NEYMAR JR',Paris saint German,'Forward'
+9,'ROBERT LEWANDOWSKI',FC Bayern Munich,'Forward'
+7,'KYLIAN MBAPPE',Paris saint German,'Forward'
+17,'KEVIN DE BRUYNE',Manchester City,'Midfielder'
+9,'EB HAALAND',Borusia Dortmund,'Forward'
